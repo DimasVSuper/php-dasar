@@ -1,4 +1,11 @@
 <?php
+//Operator Aritmatika (1)
+// +$variable Positif
+// -$variable Negatif
+// $ + $ Penambahan
+// $ - $ Pengurangan
+// $ * $ Perkalian
+// $variable / $variable pembagian
 
 $a = 10;
 $b = 10;
